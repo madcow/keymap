@@ -1,0 +1,10 @@
+# Mapgen
+
+My uniherz titan keymap can be found in out.json.
+It's currently written by hand from the definitions in
+keys.map. The plan is to write a tool that converts the
+ASCII maps to JSON format for Key Mapper. Don't know
+when I'll find the time for it.
+
+Check out Key Mapper if you haven't already. It's the
+single most important software on my phone. Worth it!
