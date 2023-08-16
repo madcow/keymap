@@ -1,24 +1,26 @@
 # Keymap Converter
 
-My uniherz titan keymap can be found in out.json.
-It's currently written by hand from the definitions in
+My latest Uniherz Titan map can be found under releases.
+It should be nearly ideal for making use of your ANSI key
+muscle memory. You only need to get used to the modifier
+keys. Nearly all keys are arranged like on the regular
+large keyboard.
+
+The map is currently created by hand from definitions in
 keys.map. The plan is to write a tool that converts the
 ASCII maps to JSON format for Key Mapper. Don't know
 when I'll find the time for it.
 
-Check out Key Mapper if you haven't already. It's the
-single most important software on my phone. Worth it!
-
 # Quick Overview
 
 ╔═════════════════════╦═══════════════════╗
-║ PRIMARY / SECONDARY ║  RIGHT EXTENSION  ║
+║ PRIMARY | SECONDARY ║  RIGHT EXTENSION  ║
 ╠═════════════════════╬═════════╦═════════╣
 ║ ! @ # $ % ^ & * ( ) ║ × { } | ║ × [ ] \ ║
-║ × × × × × × × ↑ × u ║ × : " - ║ × ; ' ` ║
-║ × × × × ___ ← ↓ → + ║ < > ? = ║ , p / ~ ║
-╠═════════════════════╬═════════╬═════════╝
-║ ° § € ® © ¥ ü ÷ ö ≡ ║ 1 2 3 0 ║
-║ ä ß Ø « » ½ ¼ ░ ▒ ▓ ║ 4 5 6 × ║
-║ × × × × ___ × × × × ║ 7 8 9 × ║
-╚═════════════════════╩═════════╝
+║ × × × × × × × ↑ × _ ║ × : " - ║ × ; ' ` ║
+║ × × × × × × ← ↓ → + ║ < > ? = ║ , . / ~ ║
+╠═════════════════════╬═════════╬═════════╣
+║ ° § € ® © ¥ ü ÷ ö ≡ ║ 1 2 3 0 ║ × × × × ║
+║ ä ß Ø « » ½ ¼ ░ ▒ ▓ ║ 4 5 6 × ║ × × × × ║
+║ × × × × × × × × × × ║ 7 8 9 × ║ × × × × ║
+╚═════════════════════╩═════════╩═════════╝
