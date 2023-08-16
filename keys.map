@@ -1,0 +1,145 @@
+# Uniherz Titan Keymap Example
+# by Leon Krieg <info@madcow.dev>
+#
+# Underscores and periods are
+# skipped. Use u and p if you
+# want to use them literally.
+# Alphanumeric literals are
+# not bindable in map files.
+#
+# Use keyword "mod" to change
+# the modifier key for the
+# next block of mappings.
+#
+# Symbols:
+# - p = .
+# - u = _
+# - t = tab
+# - b = back
+# - o = open app
+# - e = escape
+#
+# System buttons:
+#
+# go back = control
+# 2 shift = go back
+#
+# Previous version:
+#
+# ! @ # $ % ^ & * ( )
+# - _ = + [ ] { } \ |
+# ` ~ ; : . . < > / ?
+#
+# 1 2 3 4 5 6 7 8 9 0 
+# ↹ ' " , . ← ↓ ↑ → .
+# x . . . . . . . . .
+#
+# x . . . . . 1 2 3 0 
+# ↹ ↑ . . . . 4 5 6 .
+# ← ↓ → . . . 7 8 9 .
+#
+# ° § € ® © ¥ ü ÷ ö ≡
+# ä ß Ø « » ½ ¼ ░ ▒ ▓
+# . . . . . . . . . .
+#
+
+mod space # primary
+
+e . . . . . 1 2 3 0 
+t . . . . . 4 5 6 .
+_ _ _ _ ___ 7 8 9 .
+
+mod z # shift upper
+
+! @ # $ % ^ & * ( )
+. . . . . . . ↑ . u
+_ _ _ _ ___ ← ↓ → +
+
+mod x # shift right
+
+. . . . . . . { } |
+. . . . . . . : " -
+_ _ _ _ ___ < > ? =
+
+mod c # basic right
+
+. . . . . . . [ ] \
+. . . . . . . ; ' `
+_ _ _ _ ___ , p / ~
+
+mod v # regional
+
+° § € ® © ¥ ü ÷ ö ≡
+ä ß Ø « » ½ ¼ ░ ▒ ▓
+_ _ _ _ ___ . . . .
+
+#
+# Manual Prototype
+#
+# No time to write a script
+# right now. Gotta test it.
+#
+# Ordered Symbols
+#
+# 1234567890-=
+# !@#$%^&*()_+
+# {}|:"<>?`~
+# []\;',./
+# üöäß€
+#
+# Ordered Mappings
+# This is outdated.
+#
+# space + q = escape
+# space + a = tab
+# space + u = '1'
+# space + i = '2'
+# space + o = '3'
+# space + j = '4'
+# space + k = '5'
+# space + l = '6'
+# space + b = '7'
+# space + n = '8'
+# space + m = '9'
+# space + p = '0'
+# space + delete = '-'
+# space + return = '='
+# z + q = '!'
+# z + w = '@'
+# z + e = '#'
+# z + r = '$'
+# z + t = '%'
+# z + y = '^'
+# z + u = '&'
+# z + i = '*'
+# z + o = '('
+# z + p = ')'
+# z + k = up
+# z + n = down
+# z + b = left
+# z + m = right
+# z + delete = '_'
+# z + return = '+'
+# x + i = '{'
+# x + o = '}'
+# x + p = '|'
+# x + k = ':'
+# x + l = '"'
+# x + b = '<'
+# x + n = '>'
+# x + m = '?'
+# x + delete = '`'
+# x + return = '~'
+# c + i = '['
+# c + o = ']'
+# c + p = '\\'
+# c + k = ';'
+# c + l = '\''
+# c + b = ','
+# c + n = '.'
+# c + m = '/'
+# v + e = €
+# v + u = ü
+# v + o = ö
+# v + a = ä
+# v + s = ß
