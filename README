@@ -1,4 +1,4 @@
-# Mapgen
+# Keymap Converter
 
 My uniherz titan keymap can be found in out.json.
 It's currently written by hand from the definitions in
@@ -8,3 +8,17 @@ when I'll find the time for it.
 
 Check out Key Mapper if you haven't already. It's the
 single most important software on my phone. Worth it!
+
+# Quick Overview
+
+╔═════════════════════╦═══════════════════╗
+║ PRIMARY / SECONDARY ║  RIGHT EXTENSION  ║
+╠═════════════════════╬═════════╦═════════╣
+║ ! @ # $ % ^ & * ( ) ║ × { } | ║ × [ ] \ ║
+║ × × × × × × × ↑ × u ║ × : " - ║ × ; ' ` ║
+║ × × × × ___ ← ↓ → + ║ < > ? = ║ , p / ~ ║
+╠═════════════════════╬═════════╬═════════╝
+║ ° § € ® © ¥ ü ÷ ö ≡ ║ 1 2 3 0 ║
+║ ä ß Ø « » ½ ¼ ░ ▒ ▓ ║ 4 5 6 × ║
+║ × × × × ___ × × × × ║ 7 8 9 × ║
+╚═════════════════════╩═════════╝
