@@ -7,7 +7,7 @@ keys. Nearly all keys are arranged like on the regular
 large keyboard.
 
 The map is currently created by hand from definitions in
-keys.map. The plan is to write a tool that converts the
+key.map. The plan is to write a tool that converts the
 ASCII maps to JSON format for Key Mapper. Don't know
 when I'll find the time for it.
 

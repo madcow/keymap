@@ -1,0 +1,186 @@
+{
+  "closeCurrentTab": {
+    "description": "Close current tab.",
+    "key": "Ctrl-Q",
+    "readOnly": false,
+    "action": "close-current-tab"
+  },
+  "outdent": {
+    "description": "Outdent",
+    "key": "Ctrl-W",
+    "readOnly": false
+  },
+  "indent": {
+    "description": "Indent",
+    "key": "Ctrl-E",
+    "readOnly": true
+  },
+  "renameFile": {
+    "description": "Rename current file",
+    "key": "Ctrl-R",
+    "readOnly": true,
+    "action": "rename"
+  },
+  "openCommandPalette": {
+    "description": "Open command palette",
+    "key": "Ctrl-T",
+    "readOnly": true
+  },
+  "redo": {
+    "description": "Redo",
+    "key": "Ctrl-Y",
+    "readOnly": false
+  },
+  "prevFile": {
+    "description": "Open previous file tab",
+    "key": "Ctrl-U",
+    "readOnly": true,
+    "action": "prev-file"
+  },
+  "nextFile": {
+    "description": "Open next file tab",
+    "key": "Ctrl-I",
+    "readOnly": true,
+    "action": "next-file"
+  },
+  "openFile": {
+    "description": "Open a file",
+    "key": "Ctrl-O",
+    "readOnly": true,
+    "action": "open-file"
+  },
+  "openFolder": {
+    "description": "Open a folder",
+    "key": "Ctrl-P",
+    "readOnly": true,
+    "action": "open-folder"
+  },
+  "selectall": {
+    "description": "Select all",
+    "key": "Ctrl-A",
+    "readOnly": true
+  },
+  "saveFile": {
+    "description": "Save current file",
+    "key": "Ctrl-S",
+    "readOnly": true,
+    "action": "save"
+  },
+  "selectWord": {
+    "description": "Select current word",
+    "key": "Ctrl-D",
+    "readOnly": false,
+    "action": "select-word"
+  },
+  "find": {
+    "description": "Find",
+    "key": "Ctrl-F",
+    "readOnly": true
+  },
+  "gotoline": {
+    "description": "Go to line...",
+    "key": "Ctrl-G",
+    "readOnly": true
+  },
+  "gotolinestart": {
+    "description": "Go to line start",
+    "key": "Ctrl-H",
+    "readOnly": true
+  },
+  "gotostart": {
+    "description": "Go to start",
+    "key": "Ctrl-J",
+    "readOnly": true
+  },
+  "gotoend": {
+    "description": "Go to end",
+    "key": "Ctrl-K",
+    "readOnly": true
+  },
+  "gotolineend": {
+    "description": "Go to line end",
+    "key": "Ctrl-L",
+    "readOnly": true
+  },
+  "removewordleft": {
+    "description": "Remove word left",
+    "key": "Ctrl-Backspace",
+    "readOnly": false
+  },
+  "undo": {
+    "description": "Undo",
+    "key": "Ctrl-Z",
+    "readOnly": false
+  },
+  "cut": {
+    "description": "Cut",
+    "key": "Ctrl-X",
+    "readOnly": false
+  },
+  "copy": {
+    "description": "Copy",
+    "key": "Ctrl-C",
+    "readOnly": true
+  },
+  "paste": {
+    "description": "Paste",
+    "key": "Ctrl-V",
+    "readOnly": false
+  },
+ "findFile": {
+    "description": "Find a file",
+    "key": "Ctrl-Space",
+    "action": "find-file"
+  },
+  "gotowordleft": {
+    "description": "Go to word left",
+    "key": "Ctrl-Left",
+    "readOnly": true
+  },
+  "gotowordright": {
+    "description": "Go to word right",
+    "key": "Ctrl-Right",
+    "readOnly": true
+  },
+  "newFile": {
+    "description": "Create new file",
+    "key": "Ctrl-M",
+    "readOnly": true,
+    "action": "new-file"
+  },
+  "showSettingsMenu": {
+    "key": "Ctrl-Return",
+    "description": "Show settings menu",
+    "readOnly": false
+  },
+  "golineup": {
+    "description": "Go line up",
+    "key": "Up",
+    "readOnly": true
+  },
+  "golinedown": {
+    "description": "Go line down",
+    "key": "Down",
+    "readOnly": true
+  },
+  "gotoleft": {
+    "description": "Go to left",
+    "key": "Left",
+    "readOnly": true
+  },
+  "gotoright": {
+    "description": "Go to right",
+    "key": "Right",
+    "readOnly": true
+  },
+  "backspace": {
+    "description": "Backspace",
+    "key": "Shift-Backspace|Backspace",
+    "readOnly": false
+  },
+  "del": {
+    "description": "Delete",
+    "key": "Delete",
+    "readOnly": true
+  }
+}
